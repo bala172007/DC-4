@@ -141,7 +141,5 @@ FSK
 <img width="756" height="603" alt="image" src="https://github.com/user-attachments/assets/30523516-8e70-44c9-a6eb-e2dc700b2bd4" />
 
 # Results
-```
+
 Thus the simple Python program for the modulation and demodulation of ASK and FSK is verified.
-```
-# Hardware experiment output waveform.
